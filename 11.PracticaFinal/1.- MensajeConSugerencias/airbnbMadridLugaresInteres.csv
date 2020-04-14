@@ -1,0 +1,13 @@
+ID,Nombre,Direccion,Latit,Longit,Distancia
+LI01,Parque del Retiro,Parque del Retiro,40.415955,-3.684626,1.416
+LI02,Palacio Real,Calle Bailen 1,40.417931,-3.713014,2.624
+LI03,Gran Via,Gran via ,40.420362,-3.705491,1.934
+LI04,Puerta de Alcala,Plaza de la Independencia,40.419755,-3.68877,1.031
+LI05,Mercado de San Miguel,Plaza de San Miguel,40.41543,-3.708758,2.464
+LI06,Puerta del Sol,Puerta del Sol,40.416767,-3.703542,2.027
+LI07,Museo del Prado,Calle Ruiz de Alarcón,40.41377,-3.69152,1.736
+LI08,Plaza Mayor,Plaza Mayor,40.41548,-3.707487,2.376
+LI09,Catedral de la Almudena,"Calle Bailén, 10",40.416318,-3.714745,2.838
+LI10,Plaza de Cibeles,Plaza Cibeles,40.419275,-3.693031,1.228
+LI11,Santiago Bernabeu,Avda Concha Espina,40.453323,-3.689546,2.764
+15332216,Piso,Ud.esta aqui,40.428671,-3.685423,0
